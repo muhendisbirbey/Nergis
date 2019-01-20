@@ -3,7 +3,7 @@ const bot = new Discord.Client ();
 
 
 bot.on('ready', () => {
-  bot.user.setGame('instagram : pubgmuhendisi') })
+  bot.user.setGame('Can sıkıntısı...') })
 
 
 
